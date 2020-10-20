@@ -6,8 +6,6 @@
 
 You can find our pervious conference version on [Project Website](http://xinyizhang.tech/bmvc2018/).
 
-![Archi](https://drive.google.com/open?id=1yGVa_VmiKOjLn6OjKScAAevY-P1wbCkm)
-![Gate](https://drive.google.com/open?id=1ZtvYX81PAyR2DyIq1dWKmYhzBWQIKyxN)
 
 ## Dependencies
 * Python 3.6
