@@ -4,7 +4,7 @@
 
 [[arXiv](https://arxiv.org/abs/2003.00893)]
 
-You can find our pervious conference version on [Project Website](http://xinyizhang.tech/bmvc2018/).
+You can find our pervious conference version on [Project Website](http://xinyizhang.tech/ijcv2020/).
 
 
 ## Dependencies
